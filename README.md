@@ -1,3 +1,3 @@
 # YouTrackChecker
 
-Test on branch
+Test on Zenit branch
